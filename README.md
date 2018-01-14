@@ -1,1 +1,1 @@
-# pogo-badge-collection
+# Pogo badge collection
